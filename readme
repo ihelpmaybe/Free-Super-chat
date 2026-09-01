@@ -1,0 +1,17 @@
+PulseTEXT desk — START HERE
+============================
+
+Windows 10/11 (64-bit). No Node.js required.
+
+  1. Run  PulseTEXT-Desk-Setup.exe
+  2. Click through the wizard (Next → Install → Finish)
+  3. In Ops → Settings, set your payment wallet
+
+While streaming: leave the PulseTEXT Desk window open.
+
+  Ops:     http://127.0.0.1:8787/ops
+  Overlay: http://127.0.0.1:8787/overlay  (OBS browser source)
+
+Never expose port 8787 to the internet.
+
+Uninstall: Windows Settings → Apps → PulseTEXT Desk
